@@ -1,0 +1,23 @@
+/* Write your CSS here */
+
+li {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  padding-right: 30px;
+}
+
+button {
+  background-color: white;
+  color: #ff0b37;
+  border: 2px solid #ff0b37;
+  border-radius: 10px;
+  padding: 10px 15px;
+  cursor: pointer;
+}
+
+p {
+  color: #000000;
+  font-family: 'roboto';
+  font-size: 20px;
+}
